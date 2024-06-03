@@ -1,7 +1,7 @@
 # Getting Started Guide
 ## This document is a guide to creating a new django project that uses:
 
-windows__
+windows \
 python3.8.2__
 pip__
 django 2.2.15 (LTS)__
